@@ -1,1 +1,5 @@
-# PSY422
+# PSY6422
+
+Nicola Luxford
+
+Writing lots of stuff
